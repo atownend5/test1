@@ -1,3 +1,3 @@
-name <- "Amy"
+name <- "JB" 
 
 print(name)
