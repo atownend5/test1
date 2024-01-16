@@ -1,4 +1,4 @@
-name <- "JB" 
+name <- "Amy" 
 
 print(name)
 
